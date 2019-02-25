@@ -1,0 +1,17 @@
+li{
+    background-color: #0b9174;
+}
+h1{color: green;
+}
+body{ 
+    background-color: skyblue;
+    font-family:fantasy;}
+    nav{
+        text-transform: uppercase;
+        font-family: serif;
+       
+    }
+   button:hover{
+        background-color: #2a1684;
+    }
+    
