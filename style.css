@@ -1,17 +1,43 @@
-li{
+li {
     background-color: #0b9174;
 }
-h1{color: green;
+
+h1 {
+    color: green;
 }
-body{ 
+
+body {
     background-color: skyblue;
-    font-family:fantasy;}
-    nav{
-        text-transform: uppercase;
-        font-family: serif;
-       
-    }
-   button:hover{
-        background-color: #2a1684;
-    }
+    font-family: fantasy;
+
+}
+
+nav {
+    text-transform: uppercase;
+    font-family: serif;
+
+}
+
+button:hover {
+    background-color: #2a1684;
+}
+
+.service {
+    text-align: center;
+    color: green;
+}
+
+.service i {
+    color:#edeeef;
+    font-size: 30px;
+    padding: 25px 20px;
+    background-color: #0f2954;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%
     
+}
+.service span{
+    width: 200px;
+    display: inline-block;
+}
